@@ -1,0 +1,12 @@
+android-sdk
+iterm2
+slack
+monodraw
+spotify
+trailer
+wireshark
+intellij-idea
+kubetail
+hub
+drone
+

@@ -1,0 +1,13 @@
+go
+gopass
+kubernetes-cli
+kubernetes-helm
+hub
+jmeter
+yarn
+zookeeper
+ansible
+drone
+kafkacat
+neovim
+
